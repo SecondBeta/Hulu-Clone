@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+First, clone the repo
+
 You will have to create a `.env.local` file in the main branch, the file will include `API_KEY=abc123` you will have to generate an API key from https://www.themoviedb.org/
 
 Then run the development server:
