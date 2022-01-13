@@ -16,6 +16,7 @@ const Thumbnail = forwardRef(({result}, ref) => {
             }
             height={1080}
             width={1920}
+            // eslint-disable-next-line react/display-name
             />
             <div className="p-2">
                 <p className="truncate max-w-md">{result.overview}</p>
